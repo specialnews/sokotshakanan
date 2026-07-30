@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 1600 900">
+  <title>سکوت شکنان</title>
+  <script><![CDATA[function syncViewBox(){document.documentElement.setAttribute("viewBox","0 0 "+window.innerWidth+" "+window.innerHeight)}syncViewBox(),window.addEventListener("resize",syncViewBox);]]></script>
+  <foreignObject x="0" y="0" width="100%" height="100%">
+    <html xmlns="http://www.w3.org/1999/xhtml">
+      <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="assets/style.abef119995019711.css" />
+        <style>html,body,#app-root{height:100%}body{margin:0}</style>
+      </head>
+      <body>
+        <div id="app-root"></div>
+        <script src="assets/app.9f440fe33d9cdaad.js"></script>
+      </body>
+    </html>
+  </foreignObject>
+</svg>
